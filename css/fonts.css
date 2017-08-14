@@ -1,0 +1,74 @@
+/*
+@font-face {
+	font-family: "Conv_MovistarHeadline-Regular";
+
+    src: url("fonts/MovistarHeadline-Regular.eot?#iefix") format('embedded-opentype');
+	src: url("fonts/MovistarHeadline-Regular.woff") format("woff"), 
+		 url("fonts/MovistarHeadline-Regular.ttf") format("truetype"), 
+		 url("fonts/MovistarHeadline-Regular.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_MovistarHeadline-Bold';
+	src: url('fonts/MovistarHeadline-Bold.eot?#iefix') format('embedded-opentype');
+	
+	src: url('fonts/MovistarHeadline-Bold.woff') format('woff'), 
+		 url('fonts/MovistarHeadline-Bold.ttf') format('truetype'), 
+		 url('fonts/MovistarHeadline-Bold.svg') format('svg');
+	
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_MovistarText-Regular';
+	src: url('fonts/MovistarText-Regular.eot?#iefix') format('embedded-opentype');
+	src: url('fonts/MovistarText-Regular.woff') format('woff'), 
+		 url('fonts/MovistarText-Regular.ttf') format('truetype'), 
+		 url('fonts/MovistarText-Regular.svg') format('svg');
+	
+	font-weight: normal;
+	font-style: normal;
+}
+*/
+@font-face {
+    font-family: "Conv_MovistarHeadline-Bold";
+    src: url("fonts/movistarheadline-bold-webfont.eot");
+    src: url("fonts/movistarheadline-bold-webfont.eot?#iefix") format("embedded-opentype"),
+         url("fonts/movistarheadline-bold-webfont.woff") format("woff"),
+         url("fonts/movistarheadline-bold-webfont.ttf") format("truetype"),
+         url("fonts/movistarheadline-bold-webfont.svg#movistar_headlinebold") format("svg");
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: "Conv_MovistarHeadline-Regular";
+    src: url("fonts/movistarheadline-regular-webfont.eot");
+    src: url("fonts/movistarheadline-regular-webfont.eot?#iefix") format("embedded-opentype"),
+         url("fonts/movistarheadline-regular-webfont.woff") format("woff"),
+         url("fonts/movistarheadline-regular-webfont.ttf") format("truetype"),
+         url("fonts/movistarheadline-regular-webfont.svg#movistar_headlineregular") format("svg");
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: "Conv_MovistarText-Regular";
+    src: url("fonts/movistartext-regular-webfont.eot");
+    src: url("fonts/movistartext-regular-webfont.eot?#iefix") format("embedded-opentype"),
+         url("fonts/movistartext-regular-webfont.woff") format("woff"),
+         url("fonts/movistartext-regular-webfont.ttf") format("truetype"),
+         url("fonts/movistartext-regular-webfont.svg#movistar_textregular") format("svg");
+    font-weight: normal;
+    font-style: normal;
+
+}
